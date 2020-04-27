@@ -131,8 +131,7 @@ dmypy.json
 # others
 .DS_Store
 data/
+logs/
 *.html
-*.ipynb
 *.csv
 *.npy
-*.json
